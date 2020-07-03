@@ -1,3 +1,4 @@
-# Portfolio
+# My Portfolio Website
 A showcase of my personal projects and academic work.
-Check it out: https://denjj.github.io/late-night/.
+
+Check it out: https://denjj.github.io/denjj-portfolio/
