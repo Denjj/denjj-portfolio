@@ -2184,7 +2184,7 @@ input, select, textarea {
 
 		ul.labeled-icons li {
 			line-height: 1.75em;
-			margin: 1.5em 0 0 0;
+			margin: 0.5em 0 0 0;
 			padding-left: 2.25em;
 			position: relative;
 		}
@@ -2973,10 +2973,6 @@ input, select, textarea {
 					font-size: 1.25em;
 				}
 
-					#header h1 br {
-						display: none;
-					}
-
 				#header > .inner {
 					margin-bottom: 0;
 				}
@@ -3008,10 +3004,6 @@ input, select, textarea {
 
 		/* Basic */
 
-			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
-				display: none;
-			}
-
 		/* List */
 
 			ul.icons li .icon {
@@ -3041,9 +3033,6 @@ input, select, textarea {
 					padding-bottom: 3em;
 				}
 
-					#header h1 br {
-						display: inline;
-					}
 
 		/* Footer */
 
@@ -3176,9 +3165,6 @@ input, select, textarea {
 				padding: 4.5em 1.5em 0em 1.5em;
 			}
 
-				#header h1 br {
-					display: none;
-				}
 
 		/* Footer */
 
